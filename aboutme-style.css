@@ -1,0 +1,25 @@
+body{
+	background-color: rgb(79, 254, 174);
+}
+h1, h2{
+	color: red;
+	font-family: verdana;
+    font-size: 200%;
+}
+p{
+	color:green;
+	font-family: courier;
+	font-size: 100%;
+}
+a:link    {color:green; background-color:transparent; text-decoration:none}
+a:visited {color:pink; background-color:transparent; text-decoration:none}
+a:hover   {color:red; background-color:transparent; text-decoration:underline}
+a:active  {color:yellow; background-color:transparent; text-decoration:underline}
+span{
+	color:red;
+
+}
+p img{
+	 width:304px;
+	 height:228px;
+}
